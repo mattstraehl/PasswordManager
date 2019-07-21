@@ -17,5 +17,5 @@ ACTIONS
 ```
 
 ## Configuration
-Just add `pwm.sh` to your `/etc/profile.d/` directory.
+Add `pwm.sh` to your `/usr/local/bin` or `~/bin` directory.
 
